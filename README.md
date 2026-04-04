@@ -4,8 +4,8 @@
 
 WiSense detects object presence by analysing WiFi Channel State Information (CSI) distortion — no camera, no wearable, no additional hardware required.
 
-<!-- ## Live Demo
-🔗 **[wisense.streamlit.app](https://wisense.streamlit.app)** ← update with your actual URL -->
+## Live Demo
+🔗 **[wisense.streamlit.app](https://wisense-b4dfjicsgagn3v5coabpaq.streamlit.app/)**
 
 ## What it does
 - Simulates WiFi CSI signal distortion caused by object presence
