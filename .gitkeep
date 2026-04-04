@@ -1,0 +1,3 @@
+# This file keeps the samples/ folder in git.
+# Add your Widar3.0 .mat files here locally — they are gitignored (too large).
+# The app runs in simulation mode when no .mat files are present.

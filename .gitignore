@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Data files — too large for GitHub
+data/samples/*.mat
+data/samples/*.dat
+data/samples/*.npy
+data/samples/*.npz
+
+# Keep the samples folder itself
+!data/samples/.gitkeep
+
+# Model checkpoints
+model/*.pkl
+model/*.pt
+model/*.pth
+
+# Jupyter
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+
+# Output files
+test_output.png
+*.png
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
