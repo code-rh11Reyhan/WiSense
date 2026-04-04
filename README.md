@@ -16,7 +16,7 @@ WiSense detects object presence by analysing WiFi Channel State Information (CSI
 
 ## Pipeline
 ```
-RF Signal (CSI) → Preprocessing → 2D Heatmap → Edge Detection → SVM → Output
+(CSI) → Preprocessing → 2D Heatmap → Edge Detection → SVM → Output
 ```
 
 ## Tech Stack
@@ -34,15 +34,18 @@ streamlit run web/app.py
 
 ## Research basis
 - Widar3.0 (Zheng et al., IEEE TPAMI 2021)
-- RF-Pose (Zhao et al., CVPR 2018)
+- RF - Pose (Zhao et al., CVPR 2018)
 - WiGest (Abdelnasser et al., INFOCOM 2015)
 
 ## Team
 REYHAN - ML Lead And Deployment Lead
-    Github Link: code-rh11Reyhan
+    Github Link: https://github.com/code-rh11Reyhan
 RAVNEET - Web Dev Lead
+    Github Link: https://github.com/ravneet-singh-01
 RENEE - Research Citations And Pitch Lead
+    Github Link : https://github.com/reneekuthiala
 ABHIMANYU - UI/UX And Design Lead
+    Github Link: https://github.com/AbhimanyuGauba
 
 ---
 *Built at Eclipse Hackathon 6.0 · 24hours · Python 3.11*
