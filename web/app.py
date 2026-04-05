@@ -364,7 +364,7 @@ html, body, .stApp {
 }
 
 /* ── Misc ── */
-#MainMenu, footer, header { visibility: hidden; }
+#MainMenu, footer { visibility: hidden; }
 .block-container { padding-top: 1rem !important; }
 hr { border-color: #1e3a5f !important; }
 </style>
